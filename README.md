@@ -30,17 +30,13 @@
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) <br>
  <br>
- <!--
-<h3>Practice Platforms</h3>
 
-![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
- <br>-->
 
 ![]()
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srichimmy&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="srichimmy" /></p>
+ <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srichimmy&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="srichimmy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srichimmy&show_icons=true&locale=en" alt="srichimmy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srichimmy&show_icons=true&locale=en" alt="srichimmy" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srichimmy&" alt="srichimmy" /></p>
 
