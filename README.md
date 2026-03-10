@@ -11,7 +11,7 @@
 
 
 <!--profile count reader-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=srichimmy&label=Profile%20views&color=eb640a&style=flat-square" alt="srichimmy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=poojitha-devhub&label=Profile%20views&color=eb640a&style=flat-square" alt="srichimmy" /> </p>
 
 <h3>Technical Skills</h3>
 
