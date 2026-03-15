@@ -15,8 +15,6 @@
 🔗 LinkedIn:  
 https://www.linkedin.com/in/sripoojithab183/
 
-📄 Resume:  
-[Download Resume](https://github.com/user-attachments/files/17131735/pooja_resume_Fin.pdf)
 
 📱 Instagram:  
 https://www.instagram.com/sri_chimmy
