@@ -49,4 +49,8 @@ https://www.instagram.com/sri_chimmy
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojitha-devhub)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=poojitha-devhub&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojitha-devhub&layout=compact&theme=tokyonight)
