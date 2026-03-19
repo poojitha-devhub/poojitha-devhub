@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Sri Poojitha Busireddy
+### 👋 Hi, I'm Sri Poojitha 
 
 👩‍🎓 **Computer Science and Engineering Graduate**
 
