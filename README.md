@@ -13,7 +13,7 @@
 📧 Email: **sripoojithab183@gmail.com**
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/sripoojithab183/
+https://www.linkedin.com/in/sripoojithab
 
 
 📱 Instagram:  
