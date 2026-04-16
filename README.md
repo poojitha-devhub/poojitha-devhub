@@ -36,7 +36,6 @@ https://www.instagram.com/sri_chimmy
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?logo=notepadplusplus&logoColor=black)
 
 ---
