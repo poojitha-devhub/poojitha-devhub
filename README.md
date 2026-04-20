@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC4,100:7873F5&height=200&section=header&text=Sri%20Poojitha&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+👩‍🎓;Aspiring+Data+Scientist+📊;Full+Stack+Learner+💻;DSA+Practitioner+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+👩‍🎓;Aspiring+Data+Scientist;Full+Stack+Learner;DSA+Practitioner" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sripoojithab">
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Technical Skills
+### Technical Skills
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠 Tools
+### Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution 
 
 <div align="center">
 
