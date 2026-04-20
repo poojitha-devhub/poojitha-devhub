@@ -1,23 +1,36 @@
-### 👋 Hi, I'm Sri Poojitha 
+<div align="center">
 
-👩‍🎓 **Computer Science and Engineering Graduate**
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC4,100:7873F5&height=200&section=header&text=Sri%20Poojitha&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-💡 Interested in **Data Science, Full Stack Development, and Problem Solving**
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+👩‍🎓;Aspiring+Data+Scientist+📊;Full+Stack+Learner+💻;DSA+Practitioner+🚀" />
 
-📚 Currently practicing **Data Structures and Algorithms**
+</div>
 
 ---
 
-### 📫 Contact Me
+### 👋 Hi, I'm Sri Poojitha  
 
-📧 Email: **sripoojithab183@gmail.com**
+👩‍🎓 Computer Science and Engineering Graduate  
+💡 Interested in Data Science, Full Stack Development, and Problem Solving  
+📚 Currently practicing Data Structures and Algorithms  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/sripoojithab
+---
 
+### 📫 Connect With Me
 
-📱 Instagram:  
-https://www.instagram.com/sri_chimmy
+<p align="center">
+  <a href="https://www.linkedin.com/in/sripoojithab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sripoojithab183@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sri_chimmy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -40,16 +53,25 @@ https://www.instagram.com/sri_chimmy
 
 ---
 
-### 👀 Profile Views
+### 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=poojitha-devhub&label=Profile%20Views&color=eb640a&style=flat)
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojitha-devhub&show_icons=true&theme=radical" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=poojitha-devhub&theme=radical" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=poojitha-devhub&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poojitha-devhub/poojitha-devhub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poojitha-devhub/poojitha-devhub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/poojitha-devhub/poojitha-devhub/output/github-snake.svg" />
+</picture>
 
-
-
+</div>
