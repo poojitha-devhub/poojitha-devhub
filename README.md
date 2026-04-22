@@ -10,11 +10,11 @@
 
 ---
 
-### 👋 Hi, I'm Sri Poojitha  
+### Hi, I'm Sri Poojitha  
 
-👩‍🎓 Computer Science and Engineering Graduate  
-💡 Interested in Data Science, Full Stack Development, and Problem Solving  
-📚 Currently practicing Data Structures and Algorithms  
+Computer Science and Engineering Graduate  
+Interested in Data Science, Full Stack Development, and Problem Solving  
+Currently practicing Data Structures and Algorithms  
 
 ---
 
