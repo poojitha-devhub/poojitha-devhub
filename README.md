@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC4,100:7873F5&height=200&section=header&text=Sri%20Poojitha&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+👩‍🎓;Aspiring+Data+Scientist;Full+Stack+Learner;DSA+Practitioner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Aspiring+Data+Scientist;DSA+Practitioner" />
 
 </div>
 
@@ -13,7 +13,7 @@
 ### Hi, I'm Sri Poojitha  
 
 Computer Science and Engineering Graduate  
-Interested in Data Science, Full Stack Development, and Problem Solving  
+Interested in Data Science and Problem Solving  
 Currently practicing Data Structures and Algorithms  
 
 ---
@@ -36,7 +36,6 @@ Currently practicing Data Structures and Algorithms
 
 ### Technical Skills
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -56,10 +55,14 @@ Currently practicing Data Structures and Algorithms
 ### GitHub Stats
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojitha-devhub&show_icons=true&theme=radical" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=poojitha-devhub&theme=radical" />
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=poojitha-devhub&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=poojitha-devhub&theme=radical" />
+</p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=poojitha-devhub&layout=compact&theme=radical" />
+ 
+</p>
 </div>
 
 ---
